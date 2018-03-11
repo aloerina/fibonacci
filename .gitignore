@@ -1,2 +1,4 @@
 .vscode
 *.cpuprofile
+.node-version
+*.log
