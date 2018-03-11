@@ -22,9 +22,9 @@ function fibMemo (n) {
 }
 
 const length = 40
-for (let i = 0; i < length; i++) {
-    console.log(fib(i))
-}
 // for (let i = 0; i < length; i++) {
-//     console.log(fibMemo(i))
+//     console.log(fib(i))
 // }
+for (let i = 0; i < length; i++) {
+    console.log(fibMemo(i))
+}
